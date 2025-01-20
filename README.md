@@ -8,6 +8,7 @@
    - [Dataset](#dataset-)
    - [Tools 🛠️](#tools-%EF%B8%8F)
    - [Tasks](#tasks-)
+     - [Challenge 1](#challenge-1)
    - [Results](#results)
      - [BigQuery 📊](#bigquery-)
      - [Google Looker Studio : Dashboard 📈](#google-looker-studio--dashboard-)
