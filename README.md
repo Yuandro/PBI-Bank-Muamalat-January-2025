@@ -118,8 +118,8 @@ What recommendations can you provide to sustain or increase sales using the exis
 - **master_table_suyanto.sql**: SQL syntaxt for `master_table_suyanto` table
 - **master_table_suyanto.csv**: CSV file containing the result of the `master_table_suyanto.sql` file
 
-
 #### Tableau : Dashboard 📈
+link : [Tableau : Dahsboard](https://public.tableau.com/app/profile/suyanto.zhang/viz/PBIRakaminxBankMuamalat/SalesReport)
 
 
 
