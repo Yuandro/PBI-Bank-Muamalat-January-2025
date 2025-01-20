@@ -19,6 +19,12 @@ With a vision to be a modern, professional, and Islamic bank, BMI collaborates w
 website : [bankmuamalat.co.id](https://www.bankmuamalat.co.id/)
 </p>
 
+
+
+
+![Muamalat_Logo](https://github.com/user-attachments/assets/392730cf-ce28-4101-aa5c-eba2b83a08cb)
+
+
 ## About Rakamin Academy
 <p align="center">
   <img src="https://github.com/user-attachments/assets/de2ace4f-e08d-4158-934f-cb1998424045" alt="logo_rakamin-71bcd472-2d26-48e1-a544-4912cb59fb2d">
