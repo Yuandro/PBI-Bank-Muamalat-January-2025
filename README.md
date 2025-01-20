@@ -7,7 +7,7 @@ This project-based internship program is a collaboration between Rakamin Academy
 </p>
 
 ## About Bank Muamalat
-<p align="justify">
+<p align="center">
    <img src="https://github.com/user-attachments/assets/392730cf-ce28-4101-aa5c-eba2b83a08cb" alt="Bank Muamalat logo">
 </p>
 
