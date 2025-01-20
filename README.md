@@ -125,15 +125,13 @@ link : [Tableau : Dahsboard](https://public.tableau.com/app/profile/suyanto.zhan
 </p>
 
 #### Youtube 🎥
-
-
+link : [Youtube : Presentation Video]()
 
 #### Microsoft Power Point 📝
-
+file name : `FinalTask_BankMuamalat_BIAnalyst_Suyanto.pdf`
 
 #### GitHub Repository 📁
-
-
+Link : [PBI-Bank-Muamalat-January-2025](https://github.com/Yuandro/PBI-Bank-Muamalat-January-2025)
 
 
 ## Let's Connect! 🌐  
