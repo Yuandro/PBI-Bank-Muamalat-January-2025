@@ -121,7 +121,7 @@ What recommendations can you provide to sustain or increase sales using the exis
 #### Tableau : Dashboard 📈
 link : [Tableau : Dahsboard](https://public.tableau.com/app/profile/suyanto.zhang/viz/PBIRakaminxBankMuamalat/SalesReport)
 <p align="center">
-![image](https://github.com/user-attachments/assets/751fc4ce-3a53-4660-b57e-98fdd683ff57)
+   <img src="https://github.com/user-attachments/assets/751fc4ce-3a53-4660-b57e-98fdd683ff57" alt="Tableau Dashboard">
 </p>
 
 #### Youtube 🎥
