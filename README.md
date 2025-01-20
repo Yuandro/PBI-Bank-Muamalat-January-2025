@@ -8,7 +8,7 @@ This project-based internship program is a collaboration between Rakamin Academy
 
 ## About Bank Muamalat
 <p align="justify">
-   <img src="https://github.com/user-attachments/assets/f52f9bfc-ead1-416e-a435-45cd122cae34" alt="Bank Muamalat logo">
+   <img src="https://github.com/user-attachments/assets/392730cf-ce28-4101-aa5c-eba2b83a08cb" alt="Bank Muamalat logo">
 </p>
 
 <p align="justify">
@@ -18,12 +18,6 @@ With a vision to be a modern, professional, and Islamic bank, BMI collaborates w
 
 website : [bankmuamalat.co.id](https://www.bankmuamalat.co.id/)
 </p>
-
-
-
-
-![Muamalat_Logo](https://github.com/user-attachments/assets/392730cf-ce28-4101-aa5c-eba2b83a08cb)
-
 
 ## About Rakamin Academy
 <p align="center">
