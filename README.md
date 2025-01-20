@@ -82,6 +82,7 @@ Create a master table containing the following information:
 - ProductPrice `product_price`
 - ProductCategoryName `category_name`
 - TotalSales `total_sales`
+
 Sort the data based on the transaction date, from the earliest to the latest. The column order should follow the example provided.
 ![image](https://github.com/user-attachments/assets/74239485-0851-482f-a8ac-46f9bb60174a)
 
