@@ -15,7 +15,7 @@
      - [Challenge 5](#challenge-5)
    - [Results](#results)
      - [BigQuery 📊](#bigquery-)
-     - [Tableau : Dashboard 📈](#tableau--dashboard-)
+     - [Tableau : Dashboard 📈](#tableauu--dashboard-)
      - [Youtube 🎥](#youtube-)
      - [Microsoft Power Point 📝](#microsoft-power-point-)
      - [GitHub Repository 📁](#github-repository-)
