@@ -60,6 +60,6 @@ In this project, we will use several tools, including:
 
 ### Tasks 🎯
 - In this project, you are tasked with importing the provided datasets into tables in BigQuery. The table names should match the dataset names, but without the ".csv" extension.
-
+- You are required to complete `5 challenges` provided in this final task using the available tools.
 
 
