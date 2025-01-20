@@ -86,7 +86,24 @@ Create a master table containing the following information:
 Sort the data based on the transaction date, from the earliest to the latest. The column order should follow the example provided.
 ![image](https://github.com/user-attachments/assets/74239485-0851-482f-a8ac-46f9bb60174a)
 
-
 #### Challenge 4
+From the table created in challenge 3, save the results in CSV format. Using data visualization tools, create a visualization that displays the sales data. The visualization must include at least:
+- **Total overall sales**
+- **Total overall sales by product category**
+- **Total overall quantity by product category**
+- **Total sales by city**
+- **Total quantity by city**
+- **Top 5 product categories with the highest sales**
+- **Top 5 product categories with the highest quantities**
 
-##### Challenge
+#### Challenge 5
+
+
+
+
+
+
+
+
+
+
