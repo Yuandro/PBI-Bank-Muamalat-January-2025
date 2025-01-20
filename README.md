@@ -5,7 +5,14 @@
 - [About Bank Muamalat](#about-bank-muamalat)
 - [About Rakamin Academy](#about-rakamin-academy)
 - [About Project](#about-project)
-
+   - [Dataset](#dataset-)
+   - [Results](#results)
+     - [BigQuery 📊](#bigquery-)
+     - [Google Looker Studio : Dashboard 📈](#google-looker-studio--dashboard-)
+     - [Youtube 🎥](#youtube-)
+     - [Microsoft Power Point 📝](#microsoft-power-point-)
+     - [GitHub Repository 📁](#github-repository-)
+- [Let's Connect! 🌐](#lets-connect-)
 
 ## About Program
 <p align="justify">
@@ -97,13 +104,34 @@ From the table created in challenge 3, save the results in CSV format. Using dat
 - **Top 5 product categories with the highest quantities**
 
 #### Challenge 5
+What recommendations can you provide to sustain or increase sales using the existing detailed transaction table ?
+
+### Results
+#### BigQuery 📊
+
+
+
+#### Tableau : Dashboard 📈
+
+
+
+#### Youtube 🎥
+
+
+
+#### Microsoft Power Point 📝
+
+
+#### GitHub Repository 📁
 
 
 
 
+## Let's Connect! 🌐  
+- [LinkedIn](https://www.linkedin.com/in/suyanto-zhang/)   
 
-
-
-
+<p align="center">
+  🚀 Happy Coding! 🌟
+</p>
 
 
