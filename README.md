@@ -62,4 +62,30 @@ In this project, we will use several tools, including:
 - In this project, you are tasked with importing the provided datasets into tables in BigQuery. The table names should match the dataset names, but without the ".csv" extension.
 - You are required to complete `5 challenges` provided in this final task using the available tools.
 
+#### Challenge 1
+Determine the primary key for each of the 4 datasets:
+- Primary key for the `Customer` table
+- Primary key for the `Products` table
+- Primary key for the `Orders` table
+- Primary key for the `ProductCategory` table
 
+#### Challenge 2
+Determine the relationships between the four tables
+
+#### Challenge 3
+Create a master table containing the following information:
+- CustomerEmail `cust_email`
+- CustomerCity `cust_city`
+- OrderDate `order_date`
+- OrderQty `order_qty`
+- ProductName `product_name`
+- ProductPrice `product_price`
+- ProductCategoryName `category_name`
+- TotalSales `total_sales`
+Sort the data based on the transaction date, from the earliest to the latest. The column order should follow the example provided.
+![image](https://github.com/user-attachments/assets/74239485-0851-482f-a8ac-46f9bb60174a)
+
+
+#### Challenge 4
+
+##### Challenge
