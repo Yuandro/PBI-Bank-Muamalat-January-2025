@@ -4,6 +4,7 @@
 - [About Program](#about-program)
 - [About Bank Muamalat](#about-bank-muamalat)
 - [About Rakamin Academy](#about-rakamin-academy)
+- [About Project](#about-project)
 
 
 ## About Program
@@ -39,14 +40,17 @@ website : [rakamin.com](https://www.rakamin.com)
 
 ## About Project
 <p align="justify">
-
-
+As a Business Intelligence Analyst at PT Sejahtera Bersama, our responsibilities include analyzing sales data from 2020-2021, developing dashboards using data visualization tools, and providing recommendations to sustain or improve sales performance.
 </p>
 
+### Dataset 📊
+In this project, we will receive 4 CSV tables.
+- **Customers.csv** : Detailed customer information
+- **Orders.csv** : Transaction records
+- **ProductCategory.csv** : Product categorization
+- **Products.csv** : Detailed product information
 
-
-
-
+ 
 
 
 
