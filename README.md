@@ -125,7 +125,7 @@ link : [Tableau : Dahsboard](https://public.tableau.com/app/profile/suyanto.zhan
 </p>
 
 #### Youtube 🎥
-link : [Youtube : Presentation Video]()
+link : [Youtube : Presentation Video](https://youtu.be/kX5yyl8bLpI)
 
 #### Microsoft Power Point 📝
 file name : `FinalTask_BankMuamalat_BIAnalyst_Suyanto.pdf`
